@@ -1,0 +1,5 @@
+body {background-color:rgb(190, 255, 235);border-top-style:dashed;border-bottom-style:dashed;border-left-style:dashed;border-right-style:dashed;border-top-width: 25px;border-bottom-width: 25px;border-left-width: 25px;border-right-width: 25px;border-color:rgb(50, 50, 50)}
+#a{font-family: 'Roboto', sans-serif;;color:darkslategrey;text-align:center}
+#b{font-family: 'Open Sans', sans-serif;;color:darkslategrey;text-align:center;margin-right: 110px;margin-left: 110px;}
+#register{font-family: 'Poppins', sans-serif;text-align: center;font-size: 15px;color: darkslategrey;}
+#c{font-family: 'Poppins', sans-serif;border-style:dotted;border-width: 2/5px;border-color:black;color:darkslategrey;}
