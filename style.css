@@ -1,5 +1,31 @@
-body {background-color:rgb(190, 255, 235);border-top-style:dashed;border-bottom-style:dashed;border-left-style:dashed;border-right-style:dashed;border-top-width: 25px;border-bottom-width: 25px;border-left-width: 25px;border-right-width: 25px;border-color:rgb(50, 50, 50)}
-#a{font-family: 'Roboto', sans-serif;;color:darkslategrey;text-align:center}
-#b{font-family: 'Open Sans', sans-serif;;color:darkslategrey;text-align:center;margin-right: 110px;margin-left: 110px;}
-#register{font-family: 'Poppins', sans-serif;text-align: center;font-size: 15px;color: darkslategrey;}
-#c{font-family: 'Poppins', sans-serif;border-style:dotted;border-width: 2/5px;border-color:black;color:darkslategrey;}
+body{
+    background-color: rgba(238, 238, 238, 0.842);
+    background-size: auto;
+    }
+#javad{
+    font-family: 'Noto Nastaliq Urdu', cursive;
+    font-size: 25px;
+    color: rgb(49, 49, 49);
+    margin-right: 25px;
+    }
+#reza{
+    font-family: 'Noto Nastaliq Urdu', cursive;
+    font-size: 20px;
+    color: rgb(49, 49, 49);
+    margin-left:15px ;
+    }
+#sadegh{
+    font-family: 'Noto Nastaliq Urdu', cursive;
+    color: rgb(49, 49, 49);
+    margin-right:15px ;
+    }
+#ali{
+    size: 15px;
+    color: rgb(0, 70, 110);
+    margin-right:10px ;
+    margin-left: 15px;
+    }
+#hosein{
+    font-family: 'Noto Nastaliq Urdu', cursive;
+    margin-right:15px ;
+    }
